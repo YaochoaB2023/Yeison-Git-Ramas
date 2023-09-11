@@ -4,9 +4,15 @@ my first test 04/09/2023
 my second test 11/09/2023
 9:39
 
+<<<<<<< HEAD
 
 yeison
 tarea 5
 
 yeison 
 tarea 6
+=======
+GaRoOr tarea_3
+
+GaRoOr tarea_4
+>>>>>>> GaRoOr_task_1
